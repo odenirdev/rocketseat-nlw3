@@ -22,10 +22,11 @@ jobs:
               with:
                   node-version: 12
 
-            - name: Install dependencies
-              run: yarn
+            - run: yarn
 
-            - name: Build
-                run: yarn build
+            - run: yarn build
+                env:
+                    CI: true
+
 
             
