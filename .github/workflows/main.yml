@@ -25,8 +25,5 @@ jobs:
             - run: yarn
 
             - run: yarn build
-                env:
-                    CI: true
 
-
-            
+            - run: pm2 restart happy
