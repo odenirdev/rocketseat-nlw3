@@ -19,7 +19,7 @@ function Index() {
                 </header>
 
                 <footer>
-                    <strong>São Paulo</strong>
+                    <strong>Vila Clementino</strong>
                     <span>São Paulo</span>
                 </footer>
             </aside>
