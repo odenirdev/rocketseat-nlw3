@@ -15,7 +15,7 @@ function Index() {
                     <p>Visite orfanatos e mude o dia de muitas crianças.</p>
                 </main>
                 <div className="location">
-                    <strong>São Paulo</strong>
+                    <strong>Vila Clementino</strong>
                     <span>São Paulo</span>
                 </div>
 
