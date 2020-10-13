@@ -28,7 +28,4 @@ jobs:
             - name: Build
                 run: yarn build
 
-            - name: Start App
-                run: yarn start
-
             
